@@ -2,3 +2,4 @@
 .DS_Store
 .idea/
 raw_data/raw_data.csv
+data/raw_data.csv

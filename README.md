@@ -19,7 +19,8 @@ National Collision Database: [view](https://open.canada.ca/data/en/dataset/1eb9e
 
 ## Update History:
 > **2020.01.09 Project starts**.
->> 1. raw dataset were arrenged at folder /raw_data/
+>> 1. Dataset were arrenged at folder /data/
+>> 2. Due to raw data is too huge to upload to GitHub, raw data will be ignored when submitting changes.
 
 #### How to modify this file?
 The contnt you see is written at README file, where developers usually put develop progress, instruction or anything important related with project. You can learn how to modify this file at [here](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
