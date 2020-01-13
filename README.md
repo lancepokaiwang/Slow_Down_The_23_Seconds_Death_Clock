@@ -14,7 +14,7 @@ National Collision Database: [view](https://open.canada.ca/data/en/dataset/1eb9e
 >- **TBD** Paper presentation.
 >- **03/10** Presentation outline.
 >- **03/24** Poster presentation.
->- **04/07** Project presentation.
+>- **04/07** Project presentation. (Last day of course)
 >- **04/14** Project report.
 
 ## Update History:
