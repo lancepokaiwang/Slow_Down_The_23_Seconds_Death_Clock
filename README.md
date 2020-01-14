@@ -24,3 +24,8 @@ National Collision Database: [view](https://open.canada.ca/data/en/dataset/1eb9e
 
 #### How to modify this file?
 The contnt you see is written at README file, where developers usually put develop progress, instruction or anything important related with project. You can learn how to modify this file at [here](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
+
+***
+## License
+
+No license. All rights reserved by Lance Wang ([@ycpss91303](https://github.com/ycpss91303)) and [@Miaoran Dong]().
