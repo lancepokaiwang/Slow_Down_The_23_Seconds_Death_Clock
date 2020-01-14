@@ -5,8 +5,8 @@ This is the GitHub reposotiry for Carleton course Data5000. Any coding files, da
 Visit [here](https://drive.google.com/drive/folders/1fPmk5myTJ0-fFy3vEMhSuxwtxhNGfENu)
 
 ## Dataset we use:
-National Collision Database: [view](https://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a)
-Other [Dataset](http://wwwapps2.tc.gc.ca/Saf-Sec-Sur/7/NCDB-BNDC/p.aspx?c=100-0-0&l=en)
+> National Collision Database: [view](https://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a)
+> Other [Dataset](http://wwwapps2.tc.gc.ca/Saf-Sec-Sur/7/NCDB-BNDC/p.aspx?c=100-0-0&l=en)
 
 ## Course Website
 Visit [here](http://olgabaysal.com/teaching/winter20/data5000_w20.html)
