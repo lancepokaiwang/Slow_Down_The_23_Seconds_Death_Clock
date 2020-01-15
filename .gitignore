@@ -3,3 +3,7 @@
 .idea/
 raw_data/raw_data.csv
 data/raw_data.csv
+old/
+__pycache__/
+data/~$DB_Data_Dictionary.docx
+data/~$DB_Data_Dictionary.docx
