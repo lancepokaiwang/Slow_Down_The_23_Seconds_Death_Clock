@@ -37,4 +37,4 @@ The contnt you see is written at README file, where developers usually put devel
 ***
 ## License
 
-No license. All rights reserved by Lance Wang ([@ycpss91303](https://github.com/ycpss91303)) and Miaoran Dong ((@)[]).
+No license. All rights reserved by Lance Wang ([@ycpss91303](https://github.com/ycpss91303)) and Miaoran Dong ((@)[https://github.com/miaorandong]).
