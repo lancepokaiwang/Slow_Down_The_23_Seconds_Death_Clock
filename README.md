@@ -24,12 +24,12 @@ Visit [here](http://olgabaysal.com/teaching/winter20/data5000_w20.html)
 >- **04/14** Project report dead line.
 
 ## Update History:
-> **2020.01.21 Update**.
+> **2020.01.21 Update**
 >> 1. Create python file 3 - 6 with their statistical graphs.
-> **2020.01.15 Update**.
+> **2020.01.15 Update**
 >> 1. Import raw data to Mongo DB.
 >> 2. First try PCC.submitting changes.
-> **2020.01.09 Project starts**.
+> **2020.01.09 Project starts**
 >> 1. Dataset were arrenged at folder /data/
 >> 2. Due to raw data is too huge to upload to GitHub, raw data will be ignored when submitting changes.
 
