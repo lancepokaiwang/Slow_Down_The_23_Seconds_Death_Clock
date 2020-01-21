@@ -14,13 +14,14 @@ Visit [here](http://olgabaysal.com/teaching/winter20/data5000_w20.html)
 
 ## Important Deadline:
 >- ~~**01/13** Find a team member.~~
->- **01/21** Paper Selection.
->- **01/21** Project Proposal.
->- **01/28** Paper presentation.
+>- ~~**01/21** Paper Selection.~~
+>- ~~**01/21** Project Proposal.~~
+>- **02/04** Paper presentation.
 >- **03/10** Presentation outline.
 >- **03/24** Poster presentation.
->- **04/07** Project presentation. (Last day of course)
->- **04/14** Project report.
+>- **03/31** Data Day.Project presentation.
+>- **04/07** (Last day of course)
+>- **04/14** Project report dead line.
 
 ## Update History:
 > **2020.01.15 Update**.
