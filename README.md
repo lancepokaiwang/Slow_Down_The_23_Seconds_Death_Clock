@@ -19,11 +19,13 @@ Visit [here](http://olgabaysal.com/teaching/winter20/data5000_w20.html)
 >- **02/04** Paper presentation.
 >- **03/10** Presentation outline.
 >- **03/24** Poster presentation.
->- **03/31** Data Day.Project presentation.
+>- **03/31** Data Day. Project presentation.
 >- **04/07** (Last day of course)
 >- **04/14** Project report dead line.
 
 ## Update History:
+> **2020.01.21 Update**.
+>> 1. Create python file 3 - 6 with their statistical graphs.
 > **2020.01.15 Update**.
 >> 1. Import raw data to Mongo DB.
 >> 2. First try PCC.submitting changes.
