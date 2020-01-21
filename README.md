@@ -25,7 +25,7 @@ Visit [here](http://olgabaysal.com/teaching/winter20/data5000_w20.html)
 
 ## Update History:
 > **2020.01.21 Update**
->> 1. Create python file 3 - 6 with their statistical graphs.
+>> 1. Create python file 3 ~ 6 with their statistical graphs.
 > **2020.01.15 Update**
 >> 1. Import raw data to Mongo DB.
 >> 2. First try PCC.submitting changes.
