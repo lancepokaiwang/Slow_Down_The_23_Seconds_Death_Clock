@@ -18,7 +18,7 @@ with open('data/raw_data.csv', newline='') as csvfile:
             features = row
         if index != 0:
             data = {}
-            for i in range(0, len(row) - 1):
+            for i in range(0, len(row)):
                 data[features[i]] = row[i]
             batch.append(data)
             batch_count += 1
