@@ -22,11 +22,20 @@ def checkValid(content):
     if content == 'NNNN': return False
     return True
 
+
 batch = []
 batch_count = 0
 for data in collection_raw_data.find():
     # print(data)
     del data['_id']
+
+    if data['P_PSN'] == '99':
+        data['C_RCFG'] = '0'
+        data['V_TYPE'] = '0'
+        data['V_YEAR'] = '0000'
+        if data['P_SAFE'] == 'NN' or data['P_SAFE'] == 'QQ' or data['P_SAFE'] == 'UU' or data['P_SAFE'] == 'XX':
+            data['P_SAFE'] = '0'
+
     validObject = True
     for features, value in data.items():
         if not checkValid(value): validObject = False
